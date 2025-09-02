@@ -1,6 +1,8 @@
 
 # Gestión de Personal Sindical
 
+Actualización menor para forzar el build y corregir rutas de assets en GitHub Pages.
+
 Aplicación React para la gestión de personal adscrito a un sindicato, lista para desplegar en GitHub Pages.
 
 ## Estructura
