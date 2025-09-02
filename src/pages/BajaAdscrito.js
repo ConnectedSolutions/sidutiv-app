@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import emailjs from '@emailjs/browser';
 import { Box, Typography, TextField, Button, Alert, Dialog, DialogTitle, DialogContent, DialogActions } from '@mui/material';
 
-const BajaAdscrito = ({ user }) => {
+const BajaAdscrito = () => {
   const [correo, setCorreo] = useState('');
   const [confirm, setConfirm] = useState(false);
   const [enviado, setEnviado] = useState(false);

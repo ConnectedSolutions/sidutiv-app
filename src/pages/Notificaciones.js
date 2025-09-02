@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import emailjs from '@emailjs/browser';
 import { Box, Typography, TextField, Button, MenuItem, Alert } from '@mui/material';
 
-const Notificaciones = ({ user }) => {
+const Notificaciones = () => {
   const [destino, setDestino] = useState('todos');
   const [mensaje, setMensaje] = useState('');
   const [adjunto, setAdjunto] = useState(null);
