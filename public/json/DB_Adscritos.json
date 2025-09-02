@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "correo": "adscrito1@correo.com",
+    "password": "123456",
+    "estadoCivil": "Soltero",
+    "areaAdscripcion": "Administración",
+    "fechaIngreso": "2022-01-15",
+    "rol": "adscrito",
+    "fotografia": ""
+  },
+  {
+    "id": 2,
+    "correo": "delegado1@correo.com",
+    "password": "delegado123",
+    "estadoCivil": "Casado",
+    "areaAdscripcion": "Finanzas",
+    "fechaIngreso": "2021-05-10",
+    "rol": "delegado",
+    "fotografia": ""
+  },
+  {
+    "id": 3,
+    "correo": "comite1@correo.com",
+    "password": "comite123",
+    "estadoCivil": "Soltero",
+    "areaAdscripcion": "Jurídico",
+    "fechaIngreso": "2020-03-20",
+    "rol": "comite",
+    "fotografia": ""
+  }
+]
